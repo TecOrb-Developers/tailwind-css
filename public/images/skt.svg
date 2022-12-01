@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="31.893" viewBox="0 0 29 31.893">
+  <g id="Group_23" data-name="Group 23" transform="translate(-4241 -1756)">
+    <g id="Group_7" data-name="Group 7" transform="translate(3798 1525)">
+      <path id="Path_12" data-name="Path 12" d="M0,0H29V25L14.707,31.893,0,25Z" transform="translate(443 231)" fill="#424242"/>
+      <g id="Rectangle_10" data-name="Rectangle 10" transform="translate(450 247)" stroke="#000" stroke-width="1">
+        <rect width="3" height="3" stroke="none"/>
+        <rect x="0.5" y="0.5" width="2" height="2" fill="none"/>
+      </g>
+      <g id="Rectangle_11" data-name="Rectangle 11" transform="translate(454 247)" stroke="#000" stroke-width="1">
+        <rect width="3" height="3" stroke="none"/>
+        <rect x="0.5" y="0.5" width="2" height="2" fill="none"/>
+      </g>
+      <g id="Rectangle_12" data-name="Rectangle 12" transform="translate(458 247)" stroke="#000" stroke-width="1">
+        <rect width="3" height="3" stroke="none"/>
+        <rect x="0.5" y="0.5" width="2" height="2" fill="none"/>
+      </g>
+      <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(462 247)" stroke="#000" stroke-width="1">
+        <rect width="3" height="3" stroke="none"/>
+        <rect x="0.5" y="0.5" width="2" height="2" fill="none"/>
+      </g>
+      <g id="Rectangle_14" data-name="Rectangle 14" transform="translate(450 251)" stroke="#000" stroke-width="1">
+        <rect width="3" height="3" stroke="none"/>
+        <rect x="0.5" y="0.5" width="2" height="2" fill="none"/>
+      </g>
+      <g id="Rectangle_15" data-name="Rectangle 15" transform="translate(454 251)" stroke="#000" stroke-width="1">
+        <rect width="3" height="3" stroke="none"/>
+        <rect x="0.5" y="0.5" width="2" height="2" fill="none"/>
+      </g>
+      <g id="Rectangle_16" data-name="Rectangle 16" transform="translate(458 251)" stroke="#000" stroke-width="1">
+        <rect width="3" height="3" stroke="none"/>
+        <rect x="0.5" y="0.5" width="2" height="2" fill="none"/>
+      </g>
+      <g id="Rectangle_17" data-name="Rectangle 17" transform="translate(462 251)" stroke="#000" stroke-width="1">
+        <rect width="3" height="3" stroke="none"/>
+        <rect x="0.5" y="0.5" width="2" height="2" fill="none"/>
+      </g>
+      <text id="STK" transform="translate(449 243)" fill="#fff" font-size="9" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">STK</tspan></text>
+    </g>
+  </g>
+</svg>
